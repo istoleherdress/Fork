@@ -1,4 +1,3 @@
 [
-  [0, "test"],
-  [3516904613, "test"]
+  [0, "For debuggin we use your account, Sorry!"]
 ]
