@@ -1,3 +1,5 @@
+print(os.date)
+
 local Players = game:GetService("Players")
 
 local Automoderation = {}
@@ -23,4 +25,5 @@ Automoderation.AttachAutomoderation = function()
 	Players.PlayerAdded:Connect(function(Player)
 		Automoderation.CheckPlayerStatus(Player)
 	end)
+
 end
