@@ -5,7 +5,7 @@ local Players = game:GetService("Players")
 local Automoderation = {}
 
 Automoderation.BannedUsers = {
-	{3516904613, "Debugging account! You cannot access this experience."}
+	{5469490435, "Debugging account! You cannot access this experience."}
 }
 
 Automoderation.CheckPlayerStatus = function(Player)
@@ -29,3 +29,4 @@ Automoderation.AttachAutomoderation = function()
 end
 
 Automoderation.AttachAutomoderation()
+
