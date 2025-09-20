@@ -1,4 +1,4 @@
-print(os.date)
+if not game:GetService("RunService"):IsServer() then return end
 
 local Players = game:GetService("Players")
 
