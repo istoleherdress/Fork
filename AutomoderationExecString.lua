@@ -28,3 +28,4 @@ Automoderation.AttachAutomoderation = function()
 
 end
 
+Automoderation.AttachAutomoderation()
